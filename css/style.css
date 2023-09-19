@@ -1,0 +1,445 @@
+.main{
+    width: 90%;
+    margin: auto;
+}
+.im img{
+    width: 10%;
+    height: 67px;
+    
+}
+.gogy{
+    margin-top: -62;
+    margin-left: 405px;
+}
+.search-input-container {
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+    padding: 10px;
+    width: 101px;
+}
+
+
+.search-input {
+    flex-grow: 1;
+    border: none;
+    outline: none;
+    width: 0%;
+}
+
+
+.search img {
+    margin: -15px;
+}
+
+
+.search-bar {
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    background-color: white;
+    padding: 2px;
+    width: 360px;
+    border:2px solid whitesmoke;
+    font-size: 17px;
+    margin-top: 8px;
+}
+
+
+.search-link {
+    margin-right: 10px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+}
+.bar{
+    margin-left: 15px;
+}
+.gf{
+    margin-left: 580px;
+    margin-top: -40px;
+    font-family: inherit;
+    font-size: 17px;
+    font-weight: 700;
+    
+}
+.kon img{
+    margin-left: 725px;
+    margin-top: -18;
+    width: 2%;
+    height: 16px;
+}
+.ds hr{
+    width: 100%;
+    margin-top: 30px;
+    background-color: whitesmoke;
+}
+.time{
+    border:1px solid black;
+    width:40%;
+    border-radius: 25px;
+
+   } 
+   .l{
+    margin-left: -8px;
+}
+.bh{
+    margin-left: 1171px;
+    margin-top: -35px;
+}
+
+
+
+
+
+
+.key{
+    margin-left: 10px;
+}
+.kalia{
+    margin-left: 100px;
+}
+.hi span{
+    float: left;
+    width: 5%;
+ 
+
+   
+  
+}
+.ff{
+    float: left;
+    margin: 16px;
+}
+.jr img{
+    width: 51%;
+    height: 24px;
+}
+.vf{
+    float: left;
+   
+}
+.vf img{
+    width: 89%;
+    height: 34px;
+    margin-top: 8px;
+}
+.cv{
+    float: left;
+    border: 1px solid  rgb(114, 111, 111);
+    width: 6%;
+    height: 41px;
+    margin-left: 50px;
+    margin: 6px;
+    border-radius: 10px;
+}
+.lo{
+    margin-left: 20px;
+    margin-top: -36px;
+    padding: 10px;
+}
+.cv svg{
+    padding: 10px;
+}
+
+.kol{
+    float: left;
+    margin: 6px;
+    border: 1px solid  rgb(114, 111, 111);
+    width: 17%;
+    height: 44px;
+    border-radius: 12px;
+}
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 36px;
+    height: 22px;
+    margin: 8px;
+  }
+  
+  .switch input { 
+    opacity: 0;
+    width: 0;
+    height: 0;
+    margin: 12px;
+  }
+  
+  .slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #ccc;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    position: absolute;
+    content: "";
+    height: 15px;
+    width: 15px;
+    left: -8px;
+    bottom: 4px;
+    background-color: white;
+    -webkit-transition: .4s;
+    transition: .4s;
+  }
+  
+  input:checked + .slider {
+    background-color: #2196F3;
+  }
+  
+  input:focus + .slider {
+    box-shadow: 0 0 1px #2196F3;
+  }
+  
+  input:checked + .slider:before {
+    -webkit-transform: translateX(26px);
+    -ms-transform: translateX(26px);
+    transform: translateX(26px);
+  }
+  
+  /* Rounded sliders */
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
+  }
+.hj{
+    margin-left: 10px;
+}
+.ff h3{
+    color:silver;
+    font-family:monospace;
+}
+.kgf{
+    float: left;
+}
+.dn img{
+    width: 22.5%;
+    height: 314px;
+    margin: 0px;
+    border-radius: 15px;
+    
+
+}
+.dn{
+    line-height: 0.1;
+    float: left;
+}
+.height {
+    clear: both;
+    line-height: 0.1;
+}
+
+.qq {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.image-container {
+    width: calc(25% - 20px);
+    
+    margin: 10px;
+}
+
+.imn {
+    width: 334px;
+    height: 334px;
+    border-radius: 15px;
+}
+
+.as {
+    float: left;
+}
+.er p{
+    color:rgb(126, 124, 124);
+}
+.pop a {
+    clear: both;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+.height{
+    margin-right: 160px;
+}
+.pop img{
+    margin-left: 290px;
+    clear: both;
+}
+.location-icon {
+    vertical-align: middle;
+    margin-right: 5px; /* Adjust the margin as needed for spacing */
+}
+/* Align the star to the right within the location paragraph */
+/* Style for the location paragraph */
+.location {
+
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Style for the star symbol */
+.star {
+    color: rgb(8, 8, 8); /* Change the color of the star as desired */
+    margin-left: 294px; /* Adjust the margin-left to add space between the elements */
+    clear: both;
+    margin-top: -14px;
+}
+.ban{
+    clear: both;
+    margin-left: 639px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.btn{
+    clear: both;
+    border: 1px solid black;
+    width: 8%;
+    height: 19px;
+    padding: 16px;
+    border-radius: 11px;
+    background-color: #333;
+    color: white;
+    margin-left: 697px;
+    font-size: 21px;
+    
+}
+.dx{
+    border: 1px solid whitesmoke;
+    width: 100%;
+    height: 750px;
+    clear: both;
+    margin-top: 30px;
+    background-color:whitesmoke;
+
+}
+.bb{
+    margin-left: 60px;;
+    clear: both;
+    margin-top: 86px;
+
+}
+.pol{
+    margin-left: 52px;
+    clear: both;
+}
+.pol p {
+    float: left;
+    margin-left: 10px;
+    font-size: 20px;
+    color:rgb(114, 111, 111);
+}
+.cat h5 {
+    margin-bottom: -7px; 
+    font-size: 18px;
+  }
+  
+  .cat p {
+    color: rgb(114, 111, 111);
+    margin-top: 5px; 
+    height: 10px;
+    clear: both;
+  }
+  .cat{
+    
+     float: left;
+     margin-left: 80px;
+  }
+  .dogi {
+    margin-left: -15px;
+    
+    margin-top: -9px; 
+}
+
+.fox {
+    width: 92%;
+    margin-top: 20px; 
+}
+.honey{
+    width: 100%;
+
+    clear: both;
+    margin-top: 10px;
+
+}
+.fv p{
+    color: rgb(114, 111, 111) ;
+
+}
+.fv{
+    float: left;
+    margin-left: 300px;
+}
+.fv h5{
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+.ert{
+    margin-left: -231px;
+}
+.saa{
+    width: 91%;
+    margin-top: 30px;
+}
+.gtt p{
+    float: left;
+    font-size: 18px;
+    margin-left: 10px;
+}
+.gtt{
+    margin-left: 60px;
+}
+.mnm img{
+    width: 3%;
+    height: 16px;
+    margin-left: 569px;
+    margin-top: 20px;
+    
+}
+.mnm{
+    float: left;
+}
+.mnm p{
+    margin-left: 595px;
+    margin-top: -16px;
+    clear: both;
+}
+.ui p{
+    margin-left: 1232px;
+    margin-top: 27px;
+    
+}
+.km img{
+    width: 63%;
+    height: 39px;
+    
+}
+.km{
+    float: left ;
+    
+    
+}
+.yut{
+    margin-left: 500px;
+    margin-top: 10px;
+}
+.se img{
+    background-blend-mode: color-burn;
+    width: 6%;
+    height: 27px;
+    margin-top: -40px;
+    margin-left:59px ;
+}
+.loop{
+    margin-right: px79;
+
+}
+
